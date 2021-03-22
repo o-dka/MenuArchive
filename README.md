@@ -13,7 +13,3 @@ Well, most of them simply don't work, and never did (that's why there is a lot o
 > Will you add or fix functions or programs in this repo?
 
 I will fix only the MenuV7, because I clearly remember that it worked, and had (very basic) graphics.
-
->Will you add some other programs to this repo?
-
-No, this repo is for Menu programs only.
